@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "opensearch-launchpad": {
+      "source": "opensearch-project/opensearch-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/opensearch-skills/search/opensearch-launchpad/SKILL.md",
+      "computedHash": "b4601164aaad4e1251bae78a66254aa3760085f4e13db6e1bd24e6b2e5c6bf3f"
+    }
+  }
+}
