@@ -2,6 +2,8 @@
 
 A semantic search engine for Hacker News posts using sentence embeddings and vector similarity search. Search by meaning, not just keywords.
 
+![Hacker News Search UI pagei](img/hn-search-ui.png)
+
 ## Features
 
 - **Semantic Search**: Find relevant HN posts based on meaning, not just keyword matching
